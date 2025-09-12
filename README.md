@@ -1,4 +1,4 @@
-# flex-it# 🎯 **Flex Items no Flexbox**
+# flex-item# 🎯 **Flex Items no Flexbox**
 
 Os **Flex Items** são os elementos filhos diretos de um **Flex Container**. Eles herdam as propriedades do container e podem ser manipulados individualmente usando diversas propriedades.  
 
