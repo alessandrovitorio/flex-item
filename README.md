@@ -162,7 +162,3 @@ Aqui está um exemplo visual:
 - 🔄 `Item 3` aparece **antes** dos outros (`order: -1`).  
 - 🎯 `Item 2` está centralizado verticalmente (`align-self: center`).  
 
----
-
-Isso cobre os principais conceitos de **Flex Items**.🚀🔥
-em
